@@ -5,9 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.txt
 # Distribution / packaging
 .Python
+logs_lstm/
+hybrid_model_weights
+lstm_model_weights/
 build/
 develop-eggs/
 dist/
